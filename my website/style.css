@@ -1,0 +1,54 @@
+#I {
+    color: #C68FE6;
+    font-size: xx-large;
+    margin-left: 400px;
+}
+
+h1 {
+    margin-left: 50px;
+    color: #050C9C;
+}
+
+p {
+    color: #050C9C;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+#info {
+    color: #3ABEF9;
+    font-size: xx-large;
+}
+
+.hi {
+    padding: 10px;
+    border-width: 10px;
+}
+
+.btn {
+    margin-left: 150px;
+    color: #050C9C;
+}
+
+a {
+    color: black;
+}
+
+body {
+    --bs-body-font-family: var(--bs-font-monospace);
+    --bs-body-line-height: 1.4;
+    --bs-body-bg: var(--bs-gray-100);
+    background-color: darkblue;
+}
+
+.given {
+    margin-left: 5rem;
+}
+
+span {
+    color: #050C9C;
+}
+
+.next {
+    margin-right: 200px;
+}
